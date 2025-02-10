@@ -331,6 +331,7 @@
             this.FormGrupos.Name = "FormGrupos";
             this.FormGrupos.Size = new System.Drawing.Size(800, 377);
             this.FormGrupos.TabIndex = 11;
+            this.FormGrupos.Visible = false;
             // 
             // comboBox6
             // 
